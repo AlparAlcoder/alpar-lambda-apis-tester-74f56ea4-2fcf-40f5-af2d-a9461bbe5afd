@@ -1,1 +1,20 @@
-# alpar-lambda-apis-tester-74f56ea4-2fcf-40f5-af2d-a9461bbe5afd
+# alpar-lambda-apis-tester
+
+## Descrição
+# Documentação da API
+
+## Instalação
+1. Clone o repositório
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Uso
+Execute o servidor:
+```bash
+uvicorn src.main:app --reload
+```
+
+## Documentação
+Consulte a pasta `docs` para a documentação completa do projeto.
